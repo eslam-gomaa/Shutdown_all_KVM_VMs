@@ -20,7 +20,7 @@ ruby shutdown_all_vms.rb
 
 
 
-![](Images/5gl2VGt-1585585151019.png)
+![](https://i.imgur.com/5gl2VGt.png)
 
 
 
